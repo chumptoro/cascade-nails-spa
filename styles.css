@@ -4,45 +4,48 @@
     margin-left: 0px;
     margin-right: auto;
     text-align: center;
-    font-family: "Futura";
+    font-family: "Bodoni";
+    
 }
 
 
-.navbar-brand {
-    font-family: "Futura";
+.navbar-brand
+{
+    font-family: "Didot";
     color: #537fbe;
     font-size: 25px;
 }
 
 .navbar-collapse
 {
-    font-family: "Futura";
+    font-family: "Didot"
     text-align: center;
 }
 
 
 body
 {
-    background-color: #ffffff;
+    background-color: white;
+    color: #537fbe;
 }
+
 
 main .form-control
 {
-    /* center form controls */
+    
     display: inline-block;
-
-    /* override Bootstrap's 100% width for form controls */
+    
     width: auto;
 }
 
 main img
 {
-    /* constrain images on small screens */
+    
     max-width: 100%;
 }
 
 main td
 {
-    /* left-align tables' cells */
+    /
     text-align: left;
 }
