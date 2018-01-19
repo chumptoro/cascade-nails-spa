@@ -1,0 +1,52 @@
+.container .paragraph
+{
+    /* center contents */
+    margin-left: 0px;
+    margin-right: auto;
+    text-align: center;
+    font-family: "Bodoni";
+    
+}
+
+
+.navbar-brand
+{
+    font-family: "Didot";
+    color: #537fbe;
+    font-size: 25px;
+}
+
+.navbar-collapse
+{
+    font-family: "Didot"
+    text-align: center;
+}
+
+
+body
+{
+    background-color: white;
+    color: #537fbe;
+}
+
+
+main .form-control
+{
+    
+    display: inline-block;
+    
+    width: auto;
+}
+
+main img
+{
+    
+    max-width: 100%;
+}
+
+main td
+{
+    /
+    text-align: left;
+}
+
